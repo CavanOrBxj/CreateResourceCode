@@ -6,3 +6,4 @@ E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\C
 E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.csproj.GenerateResource.Cache
 E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.exe
 E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.pdb
+E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.csprojResolveAssemblyReference.cache
