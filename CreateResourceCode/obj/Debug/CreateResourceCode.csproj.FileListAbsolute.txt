@@ -7,3 +7,13 @@ E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\C
 E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.exe
 E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.pdb
 E:\GitHub\数据库根据12位区域码生成23位资源码\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.csprojResolveAssemblyReference.cache
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\bin\Debug\CreateResourceCode.exe.config
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\bin\Debug\CreateResourceCode.exe
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\bin\Debug\CreateResourceCode.pdb
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.csprojAssemblyReference.cache
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.Form1.resources
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.Properties.Resources.resources
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.csproj.GenerateResource.cache
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.csproj.CoreCompileInputs.cache
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.exe
+D:\GitHub\重庆江津\CreateResourceCode\CreateResourceCode\obj\Debug\CreateResourceCode.pdb
